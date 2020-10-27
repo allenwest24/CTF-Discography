@@ -1,3 +1,0 @@
-I opened the file in a text editor, which allowed me to find a hash. 
-I used http://icyberchef.com to figure out how it was encoded. 
-It started out being encoded in Base64, then Base32, then Base58.
