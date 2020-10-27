@@ -1,5 +1,0 @@
-Right click.
-Inspect element.
-Ctrl + f
-Type: 'flag{'
-Found it easy.
