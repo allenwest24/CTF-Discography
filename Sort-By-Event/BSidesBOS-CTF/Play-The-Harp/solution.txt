@@ -1,4 +1,0 @@
-Tried editing it, no success. 
-This command ended up working though:
-strings harp.jpg | less
-It opened to a list of strings and the last letter on each row was part of the flag.
