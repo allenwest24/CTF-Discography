@@ -4,6 +4,7 @@ Trying to get into more CTF competitions. I will try to make writeups for the ev
 
 Pwn3y_b0i
 
-### Events I Did:
+### Events:
+ - HackTheBox Challenges (Continuous)
  - BSidesBOS2020
  - MetaCTF Cyber Games 2020
