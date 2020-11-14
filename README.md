@@ -2,9 +2,10 @@ Trying to get into more CTF competitions. I will try to make writeups for the ev
 
 ### Hacker Handle:
 
-Pwn3y_b0i
+pwn3y_b0i
 
 ### Events:
  - HackTheBox Challenges (Continuous)
  - BSidesBOS2020
  - MetaCTF Cyber Games 2020
+ - BalsnCTF 2020
