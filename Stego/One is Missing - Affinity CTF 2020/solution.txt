@@ -1,0 +1,26 @@
+kali@kali:~/Downloads$ ls
+full_of__cuteness.jpg  
+.
+.
+.
+// I originally started doing classic stego techniques to reveal hidden text in the picture but then i realized they were cat.
+// I felt that clue was pretty obvious.
+.
+.
+.
+kali@kali:~/Downloads$ cat full_of__cuteness.jpg
+.
+.
+.
+// Whole buncha crap printed.
+.
+.
+.
+�▒�y��W�YhYh����{�s�\��υ7
++��X�z�x�▒�=��mn��d�2烊���PKtf>Qȉ��
+Hidden.txtAFFCTF{HIDDENKITTEN}PKtf>Qȉ��
+ Hidden.txtPK8<
+.
+.
+.
+// Flag found!
