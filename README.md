@@ -9,3 +9,5 @@ pwn3y_b0i
  - BSidesBOS2020
  - MetaCTF Cyber Games 2020
  - BalsnCTF 2020
+ - m0leCon CTF 2020
+ - Affinity CTF Lite 2020
