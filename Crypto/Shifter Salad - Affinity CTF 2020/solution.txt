@@ -1,0 +1,6 @@
+The encoded message we had was: AGHFXK{5ai5b1cee10z}
+I wrote a script to solve this.
+The general idea is that you can tell from the beginning that AGHFXK is supposed to translate to AFFCTF.
+So I tried the logic of a rolling caesar cipher, where each letter gets shifted, incrementing up by one each time.
+This gave me an invalid password so I tried the same logic but excluded no alphabet characters from the shift/increment.
+This worked, as demonstrated by the python script in this directory.
