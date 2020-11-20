@@ -1,6 +1,6 @@
 ### Intro:
 
-Trying to get into more CTF competitions. I want to start making writeups for the events I participate in and will link to them on CTFTime. The challenges are listed by type, and they all list which CTF they are from. 
+Trying to get into more CTF competitions. I want to start making writeups for the events I participate in and will link to them on CTF Time. The challenges are listed by type, and they all list which CTF they are from. 
 
 ### Hacker Handle:
 
