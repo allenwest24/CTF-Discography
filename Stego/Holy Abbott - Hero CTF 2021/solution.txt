@@ -1,0 +1,4 @@
+I did some standard checks on the downloadable text file and when nothing worked I googled the contents and came across a unique type of cipher.
+The Ave Maria is a substitution cipher that related closely to this passage.
+There were actually errors in the text file they provided but it was really easy to see the answer after using the substitution cipher online at 
+https://www.apprendre-en-ligne.net/crypto/tritheme/index.html
