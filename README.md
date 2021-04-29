@@ -13,6 +13,7 @@ pwn3y_b0i
  - BalsnCTF 2020
  - m0leCon CTF 2020
  - Affinity CTF Lite 2020
+ - Hero CTF 2021
  
 ### Disclaimer:
 
